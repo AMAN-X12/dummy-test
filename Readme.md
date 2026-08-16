@@ -8,3 +8,7 @@ verificaitipn :status ----
 
 usage of the hmac algorithm ...
 
+now testing for the jwt token created 
+
+
+
