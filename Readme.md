@@ -12,5 +12,7 @@ now testing for the jwt token created
 
 installation token testing .
 
-testing for the pull req api call 
+testing for the pull req api call
+
+testing for the current ai integration
 
